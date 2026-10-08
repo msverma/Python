@@ -23,8 +23,8 @@ if city:
         st.success(f"🌡️ Temperature: {temp}°C")
         st.info(f"💧 Humidity: {humidity}%")
         st.write(f"☁️ Condition: {condition}")
-        st.write(f"City: {city}")
-        st.write(f'country: {country}')
-        st.write(f'icon: {icon}')
+        st.info(f"City: {city}")
+        st.info(f'Country: {country}')
+        st.info(f'Icon: {icon}')
     else:
         st.error("City not found or API error!")
