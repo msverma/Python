@@ -1,0 +1,406 @@
+ProductID,ProductName,OrderID,SupplierName,CategoryName,Quantity,Year,Sales,PurchaseValue,Discount
+1,Chai,10285,Exotic Liquids,Beverages,45,1996,648.0,810.0,0.2
+1,Chai,10294,Exotic Liquids,Beverages,18,1996,259.2,324.0,0.0
+1,Chai,10317,Exotic Liquids,Beverages,20,1996,288.0,360.0,0.0
+1,Chai,10348,Exotic Liquids,Beverages,15,1996,216.0,270.0,0.15
+1,Chai,10354,Exotic Liquids,Beverages,12,1996,172.8,216.0,0.0
+1,Chai,10370,Exotic Liquids,Beverages,15,1996,216.0,270.0,0.15
+2,Chang,10255,Exotic Liquids,Beverages,20,1996,304.0,380.0,0.0
+2,Chang,10258,Exotic Liquids,Beverages,50,1996,760.0,950.0,0.2
+2,Chang,10264,Exotic Liquids,Beverages,35,1996,532.0,665.0,0.0
+2,Chang,10298,Exotic Liquids,Beverages,40,1996,608.0,760.0,0.0
+2,Chang,10327,Exotic Liquids,Beverages,25,1996,380.0,475.0,0.2
+2,Chang,10335,Exotic Liquids,Beverages,7,1996,106.4,133.0,0.2
+2,Chang,10342,Exotic Liquids,Beverages,24,1996,364.8,456.0,0.2
+2,Chang,10393,Exotic Liquids,Beverages,25,1996,380.0,475.0,0.25
+3,Aniseed Syrup,10289,Exotic Liquids,Condiments,30,1996,240.0,300.0,0.0
+4,Chef Anton's Cajun Seasoning,10309,New Orleans Cajun Delights,Condiments,20,1996,352.0,440.0,0.0
+4,Chef Anton's Cajun Seasoning,10326,New Orleans Cajun Delights,Condiments,24,1996,422.4,528.0,0.0
+4,Chef Anton's Cajun Seasoning,10336,New Orleans Cajun Delights,Condiments,18,1996,316.8,396.0,0.1
+4,Chef Anton's Cajun Seasoning,10339,New Orleans Cajun Delights,Condiments,10,1996,176.0,220.0,0.0
+4,Chef Anton's Cajun Seasoning,10344,New Orleans Cajun Delights,Condiments,35,1996,616.0,770.0,0.0
+5,Chef Anton's Gumbo Mix,10258,New Orleans Cajun Delights,Condiments,65,1996,1105.0,1387.75,0.2
+5,Chef Anton's Gumbo Mix,10262,New Orleans Cajun Delights,Condiments,12,1996,204.0,256.2,0.2
+5,Chef Anton's Gumbo Mix,10290,New Orleans Cajun Delights,Condiments,20,1996,340.0,427.0,0.0
+5,Chef Anton's Gumbo Mix,10382,New Orleans Cajun Delights,Condiments,32,1996,544.0,683.2,0.0
+6,Grandma's Boysenberry Spread,10309,Grandma Kelly's Homestead,Condiments,30,1996,600.0,750.0,0.0
+6,Grandma's Boysenberry Spread,10325,Grandma Kelly's Homestead,Condiments,6,1996,120.0,150.0,0.0
+7,Uncle Bob's Organic Dried Pears,10262,Grandma Kelly's Homestead,Produce,15,1996,360.0,450.0,0.0
+7,Uncle Bob's Organic Dried Pears,10385,Grandma Kelly's Homestead,Produce,10,1996,240.0,300.0,0.2
+8,Northwoods Cranberry Sauce,10344,Grandma Kelly's Homestead,Condiments,70,1996,2240.0,2800.0,0.25
+8,Northwoods Cranberry Sauce,10345,Grandma Kelly's Homestead,Condiments,70,1996,2240.0,2800.0,0.0
+10,Ikura,10273,Tokyo Traders,Seafood,24,1996,595.2,744.0,0.05
+10,Ikura,10276,Tokyo Traders,Seafood,15,1996,372.0,465.0,0.0
+10,Ikura,10357,Tokyo Traders,Seafood,30,1996,744.0,930.0,0.2
+10,Ikura,10389,Tokyo Traders,Seafood,16,1996,396.8,496.0,0.0
+11,Queso Cabrales,10248,Cooperativa de Quesos 'Las Cabras',Dairy Products,12,1996,168.0,252.0,0.0
+11,Queso Cabrales,10296,Cooperativa de Quesos 'Las Cabras',Dairy Products,12,1996,201.6,252.0,0.0
+11,Queso Cabrales,10327,Cooperativa de Quesos 'Las Cabras',Dairy Products,50,1996,840.0,1050.0,0.2
+11,Queso Cabrales,10353,Cooperativa de Quesos 'Las Cabras',Dairy Products,12,1996,201.6,252.0,0.2
+11,Queso Cabrales,10365,Cooperativa de Quesos 'Las Cabras',Dairy Products,24,1996,403.2,504.0,0.0
+12,Queso Manchego La Pastora,10266,Cooperativa de Quesos 'Las Cabras',Dairy Products,12,1996,364.8,456.0,0.05
+13,Konbu,10276,Mayumi's,Seafood,10,1996,48.0,60.0,0.0
+13,Konbu,10291,Mayumi's,Seafood,20,1996,96.0,120.0,0.1
+13,Konbu,10325,Mayumi's,Seafood,12,1996,57.6,72.0,0.0
+13,Konbu,10383,Mayumi's,Seafood,20,1996,96.0,120.0,0.0
+13,Konbu,10391,Mayumi's,Seafood,18,1996,86.4,108.0,0.0
+13,Konbu,10394,Mayumi's,Seafood,10,1996,48.0,60.0,0.0
+14,Tofu,10249,Mayumi's,Produce,9,1996,167.4,209.25,0.0
+14,Tofu,10325,Mayumi's,Produce,9,1996,167.4,209.25,0.0
+14,Tofu,10333,Mayumi's,Produce,10,1996,186.0,232.5,0.0
+14,Tofu,10375,Mayumi's,Produce,15,1996,279.0,348.75,0.0
+14,Tofu,10393,Mayumi's,Produce,42,1996,781.2,976.5,0.25
+15,Genen Shouyu,10283,Mayumi's,Condiments,20,1996,248.0,310.0,0.0
+15,Genen Shouyu,10323,Mayumi's,Condiments,5,1996,62.0,77.5,0.0
+16,Pavlova,10255,"Pavlova, Ltd.",Confections,35,1996,486.5,610.75,0.0
+16,Pavlova,10263,"Pavlova, Ltd.",Confections,60,1996,834.0,1047.0,0.25
+16,Pavlova,10287,"Pavlova, Ltd.",Confections,40,1996,556.0,698.0,0.15
+16,Pavlova,10296,"Pavlova, Ltd.",Confections,30,1996,417.0,523.5,0.0
+16,Pavlova,10310,"Pavlova, Ltd.",Confections,10,1996,139.0,174.5,0.0
+16,Pavlova,10324,"Pavlova, Ltd.",Confections,21,1996,291.9,366.45,0.15
+16,Pavlova,10359,"Pavlova, Ltd.",Confections,56,1996,778.4,977.2,0.05
+17,Alice Mutton,10265,"Pavlova, Ltd.",Meat/Poultry,30,1996,936.0,1170.0,0.0
+17,Alice Mutton,10279,"Pavlova, Ltd.",Meat/Poultry,15,1996,468.0,585.0,0.25
+17,Alice Mutton,10294,"Pavlova, Ltd.",Meat/Poultry,15,1996,468.0,585.0,0.0
+17,Alice Mutton,10302,"Pavlova, Ltd.",Meat/Poultry,40,1996,1248.0,1560.0,0.0
+17,Alice Mutton,10319,"Pavlova, Ltd.",Meat/Poultry,8,1996,249.6,312.0,0.0
+17,Alice Mutton,10338,"Pavlova, Ltd.",Meat/Poultry,20,1996,624.0,780.0,0.0
+17,Alice Mutton,10339,"Pavlova, Ltd.",Meat/Poultry,70,1996,2184.0,2730.0,0.05
+17,Alice Mutton,10346,"Pavlova, Ltd.",Meat/Poultry,36,1996,1123.2,1404.0,0.1
+18,Carnarvon Tigers,10293,"Pavlova, Ltd.",Seafood,12,1996,600.0,750.0,0.0
+18,Carnarvon Tigers,10305,"Pavlova, Ltd.",Seafood,25,1996,1250.0,1562.5,0.1
+18,Carnarvon Tigers,10332,"Pavlova, Ltd.",Seafood,40,1996,2000.0,2500.0,0.2
+18,Carnarvon Tigers,10340,"Pavlova, Ltd.",Seafood,20,1996,1000.0,1250.0,0.05
+18,Carnarvon Tigers,10382,"Pavlova, Ltd.",Seafood,9,1996,450.0,562.5,0.0
+19,Teatime Chocolate Biscuits,10281,"Specialty Biscuits, Ltd.",Confections,1,1996,7.3,9.2,0.0
+19,Teatime Chocolate Biscuits,10283,"Specialty Biscuits, Ltd.",Confections,18,1996,131.4,165.6,0.0
+19,Teatime Chocolate Biscuits,10299,"Specialty Biscuits, Ltd.",Confections,15,1996,109.5,138.0,0.0
+19,Teatime Chocolate Biscuits,10329,"Specialty Biscuits, Ltd.",Confections,10,1996,73.0,92.0,0.05
+19,Teatime Chocolate Biscuits,10345,"Specialty Biscuits, Ltd.",Confections,80,1996,584.0,736.0,0.0
+20,Sir Rodney's Marmalade,10252,"Specialty Biscuits, Ltd.",Confections,40,1996,2592.0,3240.0,0.05
+20,Sir Rodney's Marmalade,10272,"Specialty Biscuits, Ltd.",Confections,6,1996,388.8,486.0,0.0
+20,Sir Rodney's Marmalade,10292,"Specialty Biscuits, Ltd.",Confections,20,1996,1296.0,1620.0,0.0
+20,Sir Rodney's Marmalade,10372,"Specialty Biscuits, Ltd.",Confections,12,1996,777.6,972.0,0.25
+20,Sir Rodney's Marmalade,10384,"Specialty Biscuits, Ltd.",Confections,28,1996,1814.4,2268.0,0.0
+21,Sir Rodney's Scones,10259,"Specialty Biscuits, Ltd.",Confections,10,1996,80.0,100.0,0.0
+21,Sir Rodney's Scones,10261,"Specialty Biscuits, Ltd.",Confections,20,1996,160.0,200.0,0.0
+21,Sir Rodney's Scones,10333,"Specialty Biscuits, Ltd.",Confections,10,1996,80.0,100.0,0.1
+21,Sir Rodney's Scones,10368,"Specialty Biscuits, Ltd.",Confections,5,1996,40.0,50.0,0.1
+21,Sir Rodney's Scones,10397,"Specialty Biscuits, Ltd.",Confections,10,1996,80.0,100.0,0.15
+22,Gustaf's Knäckebröd,10251,PB Knäckebröd AB,Grains/Cereals,6,1996,100.8,126.0,0.05
+23,Tunnbröd,10337,PB Knäckebröd AB,Grains/Cereals,40,1996,288.0,360.0,0.0
+23,Tunnbröd,10348,PB Knäckebröd AB,Grains/Cereals,25,1996,180.0,225.0,0.0
+23,Tunnbröd,10396,PB Knäckebröd AB,Grains/Cereals,40,1996,288.0,360.0,0.0
+24,Guaraná Fantástica,10254,Refrescos Americanas LTDA,Beverages,15,1996,54.0,67.5,0.15
+24,Guaraná Fantástica,10263,Refrescos Americanas LTDA,Beverages,28,1996,100.8,126.0,0.0
+24,Guaraná Fantástica,10275,Refrescos Americanas LTDA,Beverages,12,1996,43.2,54.0,0.05
+24,Guaraná Fantástica,10280,Refrescos Americanas LTDA,Beverages,12,1996,43.2,54.0,0.0
+24,Guaraná Fantástica,10281,Refrescos Americanas LTDA,Beverages,6,1996,21.6,27.0,0.0
+24,Guaraná Fantástica,10293,Refrescos Americanas LTDA,Beverages,10,1996,36.0,45.0,0.0
+24,Guaraná Fantástica,10352,Refrescos Americanas LTDA,Beverages,10,1996,36.0,45.0,0.0
+24,Guaraná Fantástica,10355,Refrescos Americanas LTDA,Beverages,25,1996,90.0,112.5,0.0
+24,Guaraná Fantástica,10358,Refrescos Americanas LTDA,Beverages,10,1996,36.0,45.0,0.05
+24,Guaraná Fantástica,10386,Refrescos Americanas LTDA,Beverages,15,1996,54.0,67.5,0.0
+24,Guaraná Fantástica,10387,Refrescos Americanas LTDA,Beverages,15,1996,54.0,67.5,0.0
+25,NuNuCa Nuß-Nougat-Creme,10323,Heli Süßwaren GmbH & Co. KG,Confections,4,1996,44.8,56.0,0.0
+25,NuNuCa Nuß-Nougat-Creme,10347,Heli Süßwaren GmbH & Co. KG,Confections,10,1996,112.0,140.0,0.0
+25,NuNuCa Nuß-Nougat-Creme,10362,Heli Süßwaren GmbH & Co. KG,Confections,50,1996,560.0,700.0,0.0
+25,NuNuCa Nuß-Nougat-Creme,10393,Heli Süßwaren GmbH & Co. KG,Confections,7,1996,78.4,98.0,0.25
+26,Gumbär Gummibärchen,10330,Heli Süßwaren GmbH & Co. KG,Confections,50,1996,1245.0,1561.5,0.15
+26,Gumbär Gummibärchen,10337,Heli Süßwaren GmbH & Co. KG,Confections,24,1996,597.6,749.52,0.0
+26,Gumbär Gummibärchen,10357,Heli Süßwaren GmbH & Co. KG,Confections,16,1996,398.4,499.68,0.0
+26,Gumbär Gummibärchen,10393,Heli Süßwaren GmbH & Co. KG,Confections,70,1996,1743.0,2186.1,0.25
+27,Schoggi Schokolade,10257,Heli Süßwaren GmbH & Co. KG,Confections,25,1996,877.5,1097.5,0.0
+27,Schoggi Schokolade,10284,Heli Süßwaren GmbH & Co. KG,Confections,15,1996,526.5,658.5,0.25
+28,Rössle Sauerkraut,10277,Plutzer Lebensmittelgroßmärkte AG,Produce,20,1996,728.0,912.0,0.0
+28,Rössle Sauerkraut,10302,Plutzer Lebensmittelgroßmärkte AG,Produce,28,1996,1019.2,1276.8,0.0
+28,Rössle Sauerkraut,10312,Plutzer Lebensmittelgroßmärkte AG,Produce,4,1996,145.6,182.4,0.0
+28,Rössle Sauerkraut,10319,Plutzer Lebensmittelgroßmärkte AG,Produce,14,1996,509.6,638.4,0.0
+28,Rössle Sauerkraut,10360,Plutzer Lebensmittelgroßmärkte AG,Produce,30,1996,1092.0,1368.0,0.0
+28,Rössle Sauerkraut,10368,Plutzer Lebensmittelgroßmärkte AG,Produce,13,1996,473.2,592.8,0.1
+28,Rössle Sauerkraut,10377,Plutzer Lebensmittelgroßmärkte AG,Produce,20,1996,728.0,912.0,0.15
+28,Rössle Sauerkraut,10387,Plutzer Lebensmittelgroßmärkte AG,Produce,6,1996,218.4,273.6,0.0
+29,Thüringer Rostbratwurst,10268,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,10,1996,990.0,1237.9,0.0
+29,Thüringer Rostbratwurst,10290,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,15,1996,1485.0,1856.85,0.0
+29,Thüringer Rostbratwurst,10305,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,25,1996,2475.0,3094.75,0.1
+29,Thüringer Rostbratwurst,10354,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,4,1996,396.0,495.16,0.0
+29,Thüringer Rostbratwurst,10360,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,35,1996,3465.0,4332.65,0.0
+29,Thüringer Rostbratwurst,10369,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,20,1996,1980.0,2475.8,0.0
+29,Thüringer Rostbratwurst,10382,Plutzer Lebensmittelgroßmärkte AG,Meat/Poultry,14,1996,1386.0,1733.06,0.0
+30,Nord-Ost Matjeshering,10263,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,60,1996,1242.0,1553.4,0.25
+30,Nord-Ost Matjeshering,10282,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,6,1996,124.2,155.34,0.0
+30,Nord-Ost Matjeshering,10306,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,10,1996,207.0,258.9,0.0
+30,Nord-Ost Matjeshering,10327,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,35,1996,724.5,906.15,0.2
+30,Nord-Ost Matjeshering,10329,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,8,1996,165.6,207.12,0.05
+30,Nord-Ost Matjeshering,10338,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,15,1996,310.5,388.35,0.0
+30,Nord-Ost Matjeshering,10380,Nord-Ost-Fisch Handelsgesellschaft mbH,Seafood,18,1996,372.6,466.02,0.1
+31,Gorgonzola Telino,10253,Formaggi Fortini s.r.l.,Dairy Products,20,1996,200.0,250.0,0.0
+31,Gorgonzola Telino,10272,Formaggi Fortini s.r.l.,Dairy Products,40,1996,400.0,500.0,0.0
+31,Gorgonzola Telino,10273,Formaggi Fortini s.r.l.,Dairy Products,15,1996,150.0,187.5,0.05
+31,Gorgonzola Telino,10325,Formaggi Fortini s.r.l.,Dairy Products,4,1996,40.0,50.0,0.0
+31,Gorgonzola Telino,10335,Formaggi Fortini s.r.l.,Dairy Products,25,1996,250.0,312.5,0.2
+31,Gorgonzola Telino,10342,Formaggi Fortini s.r.l.,Dairy Products,56,1996,560.0,700.0,0.2
+31,Gorgonzola Telino,10356,Formaggi Fortini s.r.l.,Dairy Products,30,1996,300.0,375.0,0.0
+31,Gorgonzola Telino,10359,Formaggi Fortini s.r.l.,Dairy Products,70,1996,700.0,875.0,0.05
+31,Gorgonzola Telino,10363,Formaggi Fortini s.r.l.,Dairy Products,20,1996,200.0,250.0,0.0
+31,Gorgonzola Telino,10374,Formaggi Fortini s.r.l.,Dairy Products,30,1996,300.0,375.0,0.0
+31,Gorgonzola Telino,10376,Formaggi Fortini s.r.l.,Dairy Products,42,1996,420.0,525.0,0.05
+31,Gorgonzola Telino,10390,Formaggi Fortini s.r.l.,Dairy Products,60,1996,600.0,750.0,0.1
+31,Gorgonzola Telino,10393,Formaggi Fortini s.r.l.,Dairy Products,32,1996,320.0,400.0,0.0
+32,Mascarpone Fabioli,10258,Formaggi Fortini s.r.l.,Dairy Products,6,1996,153.6,192.0,0.2
+32,Mascarpone Fabioli,10314,Formaggi Fortini s.r.l.,Dairy Products,40,1996,1024.0,1280.0,0.1
+32,Mascarpone Fabioli,10335,Formaggi Fortini s.r.l.,Dairy Products,6,1996,153.6,192.0,0.2
+33,Geitost,10252,Norske Meierier,Dairy Products,25,1996,50.0,62.5,0.05
+33,Geitost,10269,Norske Meierier,Dairy Products,60,1996,120.0,150.0,0.05
+33,Geitost,10271,Norske Meierier,Dairy Products,24,1996,48.0,60.0,0.0
+33,Geitost,10273,Norske Meierier,Dairy Products,20,1996,40.0,50.0,0.0
+33,Geitost,10341,Norske Meierier,Dairy Products,8,1996,16.0,20.0,0.0
+33,Geitost,10382,Norske Meierier,Dairy Products,60,1996,120.0,150.0,0.0
+34,Sasquatch Ale,10287,Bigfoot Breweries,Beverages,20,1996,224.0,280.0,0.0
+34,Sasquatch Ale,10315,Bigfoot Breweries,Beverages,14,1996,156.8,196.0,0.0
+34,Sasquatch Ale,10358,Bigfoot Breweries,Beverages,10,1996,112.0,140.0,0.05
+34,Sasquatch Ale,10367,Bigfoot Breweries,Beverages,36,1996,403.2,504.0,0.0
+34,Sasquatch Ale,10386,Bigfoot Breweries,Beverages,10,1996,112.0,140.0,0.0
+35,Steeleye Stout,10261,Bigfoot Breweries,Beverages,20,1996,288.0,360.0,0.0
+35,Steeleye Stout,10281,Bigfoot Breweries,Beverages,4,1996,57.6,72.0,0.0
+35,Steeleye Stout,10286,Bigfoot Breweries,Beverages,100,1996,1440.0,1800.0,0.0
+35,Steeleye Stout,10321,Bigfoot Breweries,Beverages,10,1996,144.0,180.0,0.0
+35,Steeleye Stout,10324,Bigfoot Breweries,Beverages,70,1996,1008.0,1260.0,0.15
+35,Steeleye Stout,10390,Bigfoot Breweries,Beverages,40,1996,576.0,720.0,0.1
+35,Steeleye Stout,10398,Bigfoot Breweries,Beverages,30,1996,432.0,540.0,0.0
+36,Inlagd Sill,10255,Svensk Sjöföda AB,Seafood,25,1996,380.0,475.0,0.0
+36,Inlagd Sill,10270,Svensk Sjöföda AB,Seafood,30,1996,456.0,570.0,0.0
+36,Inlagd Sill,10298,Svensk Sjöföda AB,Seafood,40,1996,608.0,760.0,0.25
+36,Inlagd Sill,10313,Svensk Sjöföda AB,Seafood,12,1996,182.4,228.0,0.0
+36,Inlagd Sill,10337,Svensk Sjöföda AB,Seafood,20,1996,304.0,380.0,0.0
+36,Inlagd Sill,10342,Svensk Sjöföda AB,Seafood,40,1996,608.0,760.0,0.2
+36,Inlagd Sill,10358,Svensk Sjöföda AB,Seafood,20,1996,304.0,380.0,0.05
+36,Inlagd Sill,10371,Svensk Sjöföda AB,Seafood,6,1996,91.2,114.0,0.2
+37,Gravad lax,10259,Svensk Sjöföda AB,Seafood,1,1996,20.8,26.0,0.0
+37,Gravad lax,10337,Svensk Sjöföda AB,Seafood,28,1996,582.4,728.0,0.0
+38,Côte de Blaye,10329,Aux joyeux ecclésiastiques,Beverages,20,1996,4216.0,5270.0,0.05
+38,Côte de Blaye,10351,Aux joyeux ecclésiastiques,Beverages,20,1996,4216.0,5270.0,0.05
+38,Côte de Blaye,10353,Aux joyeux ecclésiastiques,Beverages,50,1996,10540.0,13175.0,0.2
+38,Côte de Blaye,10360,Aux joyeux ecclésiastiques,Beverages,10,1996,2108.0,2635.0,0.0
+38,Côte de Blaye,10372,Aux joyeux ecclésiastiques,Beverages,40,1996,8432.0,10540.0,0.25
+39,Chartreuse verte,10253,Aux joyeux ecclésiastiques,Beverages,42,1996,604.8,756.0,0.0
+39,Chartreuse verte,10257,Aux joyeux ecclésiastiques,Beverages,6,1996,86.4,108.0,0.0
+39,Chartreuse verte,10297,Aux joyeux ecclésiastiques,Beverages,60,1996,864.0,1080.0,0.0
+39,Chartreuse verte,10305,Aux joyeux ecclésiastiques,Beverages,30,1996,432.0,540.0,0.1
+39,Chartreuse verte,10323,Aux joyeux ecclésiastiques,Beverages,4,1996,57.6,72.0,0.0
+39,Chartreuse verte,10347,Aux joyeux ecclésiastiques,Beverages,50,1996,720.0,900.0,0.15
+39,Chartreuse verte,10361,Aux joyeux ecclésiastiques,Beverages,54,1996,777.6,972.0,0.1
+39,Chartreuse verte,10377,Aux joyeux ecclésiastiques,Beverages,20,1996,288.0,360.0,0.15
+40,Boston Crab Meat,10267,New England Seafood Cannery,Seafood,50,1996,735.0,920.0,0.0
+40,Boston Crab Meat,10273,New England Seafood Cannery,Seafood,60,1996,882.0,1104.0,0.05
+40,Boston Crab Meat,10285,New England Seafood Cannery,Seafood,40,1996,588.0,736.0,0.2
+40,Boston Crab Meat,10301,New England Seafood Cannery,Seafood,10,1996,147.0,184.0,0.0
+40,Boston Crab Meat,10303,New England Seafood Cannery,Seafood,40,1996,588.0,736.0,0.1
+40,Boston Crab Meat,10347,New England Seafood Cannery,Seafood,4,1996,58.8,73.6,0.0
+41,Jack's New England Clam Chowder,10250,New England Seafood Cannery,Seafood,10,1996,77.0,96.5,0.0
+41,Jack's New England Clam Chowder,10260,New England Seafood Cannery,Seafood,16,1996,123.2,154.4,0.25
+41,Jack's New England Clam Chowder,10264,New England Seafood Cannery,Seafood,25,1996,192.5,241.25,0.15
+41,Jack's New England Clam Chowder,10316,New England Seafood Cannery,Seafood,10,1996,77.0,96.5,0.0
+41,Jack's New England Clam Chowder,10318,New England Seafood Cannery,Seafood,20,1996,154.0,193.0,0.0
+41,Jack's New England Clam Chowder,10340,New England Seafood Cannery,Seafood,12,1996,92.4,115.8,0.05
+41,Jack's New England Clam Chowder,10351,New England Seafood Cannery,Seafood,13,1996,100.1,125.45,0.0
+41,Jack's New England Clam Chowder,10379,New England Seafood Cannery,Seafood,8,1996,61.6,77.2,0.1
+42,Singaporean Hokkien Fried Mee,10248,Leka Trading,Grains/Cereals,10,1996,98.0,140.0,0.0
+42,Singaporean Hokkien Fried Mee,10309,Leka Trading,Grains/Cereals,2,1996,22.4,28.0,0.0
+42,Singaporean Hokkien Fried Mee,10311,Leka Trading,Grains/Cereals,6,1996,67.2,84.0,0.0
+42,Singaporean Hokkien Fried Mee,10332,Leka Trading,Grains/Cereals,10,1996,112.0,140.0,0.2
+42,Singaporean Hokkien Fried Mee,10345,Leka Trading,Grains/Cereals,9,1996,100.8,126.0,0.0
+43,Ipoh Coffee,10270,Leka Trading,Beverages,25,1996,920.0,1150.0,0.0
+43,Ipoh Coffee,10294,Leka Trading,Beverages,15,1996,552.0,690.0,0.0
+43,Ipoh Coffee,10302,Leka Trading,Beverages,12,1996,441.6,552.0,0.0
+43,Ipoh Coffee,10309,Leka Trading,Beverages,20,1996,736.0,920.0,0.0
+43,Ipoh Coffee,10312,Leka Trading,Beverages,24,1996,883.2,1104.0,0.0
+43,Ipoh Coffee,10340,Leka Trading,Beverages,40,1996,1472.0,1840.0,0.05
+44,Gula Malacca,10278,Leka Trading,Condiments,16,1996,248.0,311.2,0.0
+44,Gula Malacca,10284,Leka Trading,Condiments,21,1996,325.5,408.45,0.0
+44,Gula Malacca,10291,Leka Trading,Condiments,24,1996,372.0,466.8,0.1
+44,Gula Malacca,10351,Leka Trading,Condiments,77,1996,1193.5,1497.65,0.05
+45,Rogede sild,10388,Lyngbysild,Seafood,15,1996,114.0,142.5,0.2
+46,Spegesild,10287,Lyngbysild,Seafood,15,1996,144.0,180.0,0.15
+46,Spegesild,10324,Lyngbysild,Seafood,30,1996,288.0,360.0,0.0
+46,Spegesild,10390,Lyngbysild,Seafood,45,1996,432.0,540.0,0.0
+46,Spegesild,10395,Lyngbysild,Seafood,28,1996,268.8,336.0,0.1
+47,Zaanse koeken,10332,Zaanse Snoepfabriek,Confections,16,1996,121.6,152.0,0.2
+49,Maxilaku,10253,Karkki Oy,Confections,40,1996,640.0,800.0,0.0
+49,Maxilaku,10290,Karkki Oy,Confections,15,1996,240.0,300.0,0.0
+49,Maxilaku,10304,Karkki Oy,Confections,30,1996,480.0,600.0,0.0
+49,Maxilaku,10360,Karkki Oy,Confections,35,1996,560.0,700.0,0.0
+50,Valkoinen suklaa,10350,Karkki Oy,Confections,15,1996,195.0,243.75,0.1
+50,Valkoinen suklaa,10383,Karkki Oy,Confections,15,1996,195.0,243.75,0.0
+51,Manjimup Dried Apples,10249,"G'day, Mate",Produce,40,1996,1696.0,2120.0,0.0
+51,Manjimup Dried Apples,10250,"G'day, Mate",Produce,35,1996,1484.0,1855.0,0.15
+51,Manjimup Dried Apples,10291,"G'day, Mate",Produce,2,1996,84.8,106.0,0.1
+51,Manjimup Dried Apples,10335,"G'day, Mate",Produce,48,1996,2035.2,2544.0,0.2
+51,Manjimup Dried Apples,10362,"G'day, Mate",Produce,20,1996,848.0,1060.0,0.0
+51,Manjimup Dried Apples,10397,"G'day, Mate",Produce,18,1996,763.2,954.0,0.15
+52,Filo Mix,10322,"G'day, Mate",Grains/Cereals,20,1996,112.0,140.0,0.0
+52,Filo Mix,10334,"G'day, Mate",Grains/Cereals,8,1996,44.8,56.0,0.0
+52,Filo Mix,10388,"G'day, Mate",Grains/Cereals,20,1996,112.0,140.0,0.2
+53,Perth Pasties,10256,"G'day, Mate",Meat/Poultry,15,1996,393.0,492.0,0.0
+53,Perth Pasties,10285,"G'day, Mate",Meat/Poultry,36,1996,943.2,1180.8,0.2
+53,Perth Pasties,10306,"G'day, Mate",Meat/Poultry,10,1996,262.0,328.0,0.0
+53,Perth Pasties,10312,"G'day, Mate",Meat/Poultry,20,1996,524.0,656.0,0.0
+53,Perth Pasties,10380,"G'day, Mate",Meat/Poultry,20,1996,524.0,656.0,0.1
+53,Perth Pasties,10388,"G'day, Mate",Meat/Poultry,40,1996,1048.0,1312.0,0.0
+53,Perth Pasties,10395,"G'day, Mate",Meat/Poultry,70,1996,1834.0,2296.0,0.1
+54,Tourtière,10288,Ma Maison,Meat/Poultry,10,1996,59.0,74.5,0.1
+54,Tourtière,10306,Ma Maison,Meat/Poultry,5,1996,29.5,37.25,0.0
+54,Tourtière,10331,Ma Maison,Meat/Poultry,15,1996,88.5,111.75,0.0
+54,Tourtière,10349,Ma Maison,Meat/Poultry,24,1996,141.6,178.8,0.0
+54,Tourtière,10352,Ma Maison,Meat/Poultry,20,1996,118.0,149.0,0.15
+54,Tourtière,10360,Ma Maison,Meat/Poultry,28,1996,165.2,208.6,0.0
+54,Tourtière,10362,Ma Maison,Meat/Poultry,24,1996,141.6,178.8,0.0
+54,Tourtière,10367,Ma Maison,Meat/Poultry,18,1996,106.2,134.1,0.0
+54,Tourtière,10375,Ma Maison,Meat/Poultry,10,1996,59.0,74.5,0.0
+55,Pâté chinois,10254,Ma Maison,Meat/Poultry,21,1996,403.2,504.0,0.15
+55,Pâté chinois,10280,Ma Maison,Meat/Poultry,20,1996,384.0,480.0,0.0
+55,Pâté chinois,10342,Ma Maison,Meat/Poultry,40,1996,768.0,960.0,0.2
+55,Pâté chinois,10356,Ma Maison,Meat/Poultry,12,1996,230.4,288.0,0.0
+55,Pâté chinois,10389,Ma Maison,Meat/Poultry,15,1996,288.0,360.0,0.0
+55,Pâté chinois,10398,Ma Maison,Meat/Poultry,120,1996,2304.0,2880.0,0.1
+56,Gnocchi di nonna Alice,10262,Pasta Buttini s.r.l.,Grains/Cereals,2,1996,60.8,76.0,0.0
+56,Gnocchi di nonna Alice,10295,Pasta Buttini s.r.l.,Grains/Cereals,4,1996,121.6,152.0,0.0
+56,Gnocchi di nonna Alice,10301,Pasta Buttini s.r.l.,Grains/Cereals,20,1996,608.0,760.0,0.0
+56,Gnocchi di nonna Alice,10329,Pasta Buttini s.r.l.,Grains/Cereals,12,1996,364.8,456.0,0.05
+56,Gnocchi di nonna Alice,10346,Pasta Buttini s.r.l.,Grains/Cereals,20,1996,608.0,760.0,0.0
+56,Gnocchi di nonna Alice,10369,Pasta Buttini s.r.l.,Grains/Cereals,18,1996,547.2,684.0,0.25
+56,Gnocchi di nonna Alice,10383,Pasta Buttini s.r.l.,Grains/Cereals,20,1996,608.0,760.0,0.0
+57,Ravioli Angelo,10251,Pasta Buttini s.r.l.,Grains/Cereals,15,1996,234.0,292.5,0.05
+57,Ravioli Angelo,10260,Pasta Buttini s.r.l.,Grains/Cereals,50,1996,780.0,975.0,0.0
+57,Ravioli Angelo,10282,Pasta Buttini s.r.l.,Grains/Cereals,2,1996,31.2,39.0,0.0
+57,Ravioli Angelo,10326,Pasta Buttini s.r.l.,Grains/Cereals,16,1996,249.6,312.0,0.0
+57,Ravioli Angelo,10355,Pasta Buttini s.r.l.,Grains/Cereals,25,1996,390.0,487.5,0.0
+57,Ravioli Angelo,10368,Pasta Buttini s.r.l.,Grains/Cereals,25,1996,390.0,487.5,0.0
+58,Escargots de Bourgogne,10314,Escargots Nouveaux,Seafood,30,1996,318.0,397.5,0.1
+58,Escargots de Bourgogne,10327,Escargots Nouveaux,Seafood,30,1996,318.0,397.5,0.2
+58,Escargots de Bourgogne,10373,Escargots Nouveaux,Seafood,80,1996,848.0,1060.0,0.2
+58,Escargots de Bourgogne,10374,Escargots Nouveaux,Seafood,15,1996,159.0,198.75,0.0
+59,Raclette Courdavault,10255,Gai pâturage,Dairy Products,30,1996,1320.0,1650.0,0.0
+59,Raclette Courdavault,10267,Gai pâturage,Dairy Products,70,1996,3080.0,3850.0,0.15
+59,Raclette Courdavault,10275,Gai pâturage,Dairy Products,6,1996,264.0,330.0,0.05
+59,Raclette Courdavault,10278,Gai pâturage,Dairy Products,15,1996,660.0,825.0,0.0
+59,Raclette Courdavault,10298,Gai pâturage,Dairy Products,30,1996,1320.0,1650.0,0.25
+59,Raclette Courdavault,10304,Gai pâturage,Dairy Products,10,1996,440.0,550.0,0.0
+59,Raclette Courdavault,10324,Gai pâturage,Dairy Products,40,1996,1760.0,2200.0,0.15
+59,Raclette Courdavault,10328,Gai pâturage,Dairy Products,9,1996,396.0,495.0,0.0
+59,Raclette Courdavault,10341,Gai pâturage,Dairy Products,9,1996,396.0,495.0,0.15
+59,Raclette Courdavault,10387,Gai pâturage,Dairy Products,12,1996,528.0,660.0,0.0
+60,Camembert Pierrot,10252,Gai pâturage,Dairy Products,40,1996,1088.0,1360.0,0.0
+60,Camembert Pierrot,10283,Gai pâturage,Dairy Products,35,1996,952.0,1190.0,0.0
+60,Camembert Pierrot,10284,Gai pâturage,Dairy Products,20,1996,544.0,680.0,0.25
+60,Camembert Pierrot,10294,Gai pâturage,Dairy Products,21,1996,571.2,714.0,0.0
+60,Camembert Pierrot,10357,Gai pâturage,Dairy Products,8,1996,217.6,272.0,0.2
+60,Camembert Pierrot,10359,Gai pâturage,Dairy Products,80,1996,2176.0,2720.0,0.05
+60,Camembert Pierrot,10361,Gai pâturage,Dairy Products,55,1996,1496.0,1870.0,0.1
+60,Camembert Pierrot,10372,Gai pâturage,Dairy Products,70,1996,1904.0,2380.0,0.25
+60,Camembert Pierrot,10380,Gai pâturage,Dairy Products,6,1996,163.2,204.0,0.1
+60,Camembert Pierrot,10384,Gai pâturage,Dairy Products,15,1996,408.0,510.0,0.0
+60,Camembert Pierrot,10385,Gai pâturage,Dairy Products,20,1996,544.0,680.0,0.2
+62,Tarte au sucre,10260,Forêts d'érables,Confections,15,1996,591.0,739.5,0.25
+62,Tarte au sucre,10277,Forêts d'érables,Confections,12,1996,472.8,591.6,0.0
+62,Tarte au sucre,10286,Forêts d'érables,Confections,40,1996,1576.0,1972.0,0.0
+62,Tarte au sucre,10298,Forêts d'érables,Confections,15,1996,591.0,739.5,0.0
+62,Tarte au sucre,10307,Forêts d'érables,Confections,10,1996,394.0,493.0,0.0
+62,Tarte au sucre,10310,Forêts d'érables,Confections,5,1996,197.0,246.5,0.0
+62,Tarte au sucre,10314,Forêts d'érables,Confections,25,1996,985.0,1232.5,0.1
+62,Tarte au sucre,10316,Forêts d'érables,Confections,70,1996,2758.0,3451.0,0.0
+62,Tarte au sucre,10339,Forêts d'érables,Confections,28,1996,1103.2,1380.4,0.0
+62,Tarte au sucre,10389,Forêts d'érables,Confections,20,1996,788.0,986.0,0.0
+62,Tarte au sucre,10394,Forêts d'érables,Confections,10,1996,394.0,493.0,0.0
+63,Vegie-spread,10278,"Pavlova, Ltd.",Condiments,8,1996,280.8,351.2,0.0
+63,Vegie-spread,10293,"Pavlova, Ltd.",Condiments,5,1996,175.5,219.5,0.0
+63,Vegie-spread,10324,"Pavlova, Ltd.",Condiments,80,1996,2808.0,3512.0,0.15
+63,Vegie-spread,10379,"Pavlova, Ltd.",Condiments,16,1996,561.6,702.4,0.1
+64,Wimmers gute Semmelknödel,10289,Plutzer Lebensmittelgroßmärkte AG,Grains/Cereals,9,1996,239.4,299.25,0.0
+64,Wimmers gute Semmelknödel,10343,Plutzer Lebensmittelgroßmärkte AG,Grains/Cereals,50,1996,1330.0,1662.5,0.0
+64,Wimmers gute Semmelknödel,10368,Plutzer Lebensmittelgroßmärkte AG,Grains/Cereals,35,1996,931.0,1163.75,0.1
+64,Wimmers gute Semmelknödel,10370,Plutzer Lebensmittelgroßmärkte AG,Grains/Cereals,30,1996,798.0,997.5,0.0
+65,Louisiana Fiery Hot Pepper Sauce,10250,New Orleans Cajun Delights,Condiments,15,1996,252.0,315.75,0.15
+65,Louisiana Fiery Hot Pepper Sauce,10251,New Orleans Cajun Delights,Condiments,20,1996,336.0,421.0,0.0
+65,Louisiana Fiery Hot Pepper Sauce,10303,New Orleans Cajun Delights,Condiments,30,1996,504.0,631.5,0.1
+65,Louisiana Fiery Hot Pepper Sauce,10328,New Orleans Cajun Delights,Condiments,40,1996,672.0,842.0,0.0
+65,Louisiana Fiery Hot Pepper Sauce,10351,New Orleans Cajun Delights,Condiments,10,1996,168.0,210.5,0.05
+65,Louisiana Fiery Hot Pepper Sauce,10366,New Orleans Cajun Delights,Condiments,5,1996,84.0,105.25,0.0
+65,Louisiana Fiery Hot Pepper Sauce,10367,New Orleans Cajun Delights,Condiments,15,1996,252.0,315.75,0.0
+65,Louisiana Fiery Hot Pepper Sauce,10379,New Orleans Cajun Delights,Condiments,20,1996,336.0,421.0,0.1
+66,Louisiana Hot Spiced Okra,10300,New Orleans Cajun Delights,Condiments,30,1996,408.0,510.0,0.0
+67,Laughing Lumberjack Lager,10284,Bigfoot Breweries,Beverages,5,1996,56.0,70.0,0.25
+68,Scottish Longbreads,10288,"Specialty Biscuits, Ltd.",Confections,3,1996,30.0,37.5,0.1
+68,Scottish Longbreads,10300,"Specialty Biscuits, Ltd.",Confections,20,1996,200.0,250.0,0.0
+68,Scottish Longbreads,10303,"Specialty Biscuits, Ltd.",Confections,15,1996,150.0,187.5,0.1
+68,Scottish Longbreads,10307,"Specialty Biscuits, Ltd.",Confections,3,1996,30.0,37.5,0.0
+68,Scottish Longbreads,10328,"Specialty Biscuits, Ltd.",Confections,10,1996,100.0,125.0,0.0
+68,Scottish Longbreads,10334,"Specialty Biscuits, Ltd.",Confections,10,1996,100.0,125.0,0.0
+68,Scottish Longbreads,10343,"Specialty Biscuits, Ltd.",Confections,4,1996,40.0,50.0,0.05
+68,Scottish Longbreads,10385,"Specialty Biscuits, Ltd.",Confections,8,1996,80.0,100.0,0.2
+68,Scottish Longbreads,10399,"Specialty Biscuits, Ltd.",Confections,60,1996,600.0,750.0,0.0
+69,Gudbrandsdalsost,10296,Norske Meierier,Dairy Products,15,1996,432.0,540.0,0.0
+69,Gudbrandsdalsost,10308,Norske Meierier,Dairy Products,1,1996,28.8,36.0,0.0
+69,Gudbrandsdalsost,10311,Norske Meierier,Dairy Products,7,1996,201.6,252.0,0.0
+69,Gudbrandsdalsost,10350,Norske Meierier,Dairy Products,18,1996,518.4,648.0,0.1
+69,Gudbrandsdalsost,10356,Norske Meierier,Dairy Products,20,1996,576.0,720.0,0.0
+69,Gudbrandsdalsost,10364,Norske Meierier,Dairy Products,30,1996,864.0,1080.0,0.0
+69,Gudbrandsdalsost,10392,Norske Meierier,Dairy Products,50,1996,1440.0,1800.0,0.0
+69,Gudbrandsdalsost,10395,Norske Meierier,Dairy Products,8,1996,230.4,288.0,0.0
+70,Outback Lager,10260,"Pavlova, Ltd.",Beverages,21,1996,252.0,315.0,0.25
+70,Outback Lager,10265,"Pavlova, Ltd.",Beverages,20,1996,240.0,300.0,0.0
+70,Outback Lager,10299,"Pavlova, Ltd.",Beverages,20,1996,240.0,300.0,0.0
+70,Outback Lager,10308,"Pavlova, Ltd.",Beverages,5,1996,60.0,75.0,0.0
+70,Outback Lager,10315,"Pavlova, Ltd.",Beverages,30,1996,360.0,450.0,0.0
+70,Outback Lager,10380,"Pavlova, Ltd.",Beverages,30,1996,360.0,450.0,0.0
+70,Outback Lager,10389,"Pavlova, Ltd.",Beverages,30,1996,360.0,450.0,0.0
+71,Flotemysost,10274,Norske Meierier,Dairy Products,20,1996,344.0,430.0,0.0
+71,Flotemysost,10304,Norske Meierier,Dairy Products,2,1996,34.4,43.0,0.0
+71,Flotemysost,10309,Norske Meierier,Dairy Products,3,1996,51.6,64.5,0.0
+71,Flotemysost,10320,Norske Meierier,Dairy Products,30,1996,516.0,645.0,0.0
+71,Flotemysost,10333,Norske Meierier,Dairy Products,40,1996,688.0,860.0,0.1
+71,Flotemysost,10364,Norske Meierier,Dairy Products,5,1996,86.0,107.5,0.0
+71,Flotemysost,10373,Norske Meierier,Dairy Products,50,1996,860.0,1075.0,0.2
+71,Flotemysost,10378,Norske Meierier,Dairy Products,6,1996,103.2,129.0,0.0
+71,Flotemysost,10387,Norske Meierier,Dairy Products,15,1996,258.0,322.5,0.0
+71,Flotemysost,10396,Norske Meierier,Dairy Products,60,1996,1032.0,1290.0,0.0
+71,Flotemysost,10399,Norske Meierier,Dairy Products,30,1996,516.0,645.0,0.0
+72,Mozzarella di Giovanni,10248,Formaggi Fortini s.r.l.,Dairy Products,5,1996,174.0,174.0,0.0
+72,Mozzarella di Giovanni,10268,Formaggi Fortini s.r.l.,Dairy Products,4,1996,111.2,139.2,0.0
+72,Mozzarella di Giovanni,10269,Formaggi Fortini s.r.l.,Dairy Products,20,1996,556.0,696.0,0.05
+72,Mozzarella di Giovanni,10272,Formaggi Fortini s.r.l.,Dairy Products,24,1996,667.2,835.2,0.0
+72,Mozzarella di Giovanni,10274,Formaggi Fortini s.r.l.,Dairy Products,7,1996,194.6,243.6,0.0
+72,Mozzarella di Giovanni,10283,Formaggi Fortini s.r.l.,Dairy Products,3,1996,83.4,104.4,0.0
+72,Mozzarella di Giovanni,10297,Formaggi Fortini s.r.l.,Dairy Products,20,1996,556.0,696.0,0.0
+72,Mozzarella di Giovanni,10325,Formaggi Fortini s.r.l.,Dairy Products,40,1996,1112.0,1392.0,0.0
+72,Mozzarella di Giovanni,10330,Formaggi Fortini s.r.l.,Dairy Products,25,1996,695.0,870.0,0.15
+72,Mozzarella di Giovanni,10337,Formaggi Fortini s.r.l.,Dairy Products,25,1996,695.0,870.0,0.0
+72,Mozzarella di Giovanni,10372,Formaggi Fortini s.r.l.,Dairy Products,42,1996,1167.6,1461.6,0.25
+72,Mozzarella di Giovanni,10390,Formaggi Fortini s.r.l.,Dairy Products,24,1996,667.2,835.2,0.1
+72,Mozzarella di Giovanni,10396,Formaggi Fortini s.r.l.,Dairy Products,21,1996,583.8,730.8,0.0
+73,Röd Kaviar,10278,Svensk Sjöföda AB,Seafood,25,1996,300.0,375.0,0.0
+74,Longlife Tofu,10254,Tokyo Traders,Produce,21,1996,168.0,210.0,0.0
+74,Longlife Tofu,10263,Tokyo Traders,Produce,36,1996,288.0,360.0,0.25
+74,Longlife Tofu,10370,Tokyo Traders,Produce,20,1996,160.0,200.0,0.15
+74,Longlife Tofu,10381,Tokyo Traders,Produce,14,1996,112.0,140.0,0.0
+74,Longlife Tofu,10382,Tokyo Traders,Produce,50,1996,400.0,500.0,0.0
+75,Rhönbräu Klosterbier,10280,Plutzer Lebensmittelgroßmärkte AG,Beverages,30,1996,186.0,232.5,0.0
+75,Rhönbräu Klosterbier,10293,Plutzer Lebensmittelgroßmärkte AG,Beverages,6,1996,37.2,46.5,0.0
+75,Rhönbräu Klosterbier,10294,Plutzer Lebensmittelgroßmärkte AG,Beverages,6,1996,37.2,46.5,0.0
+75,Rhönbräu Klosterbier,10312,Plutzer Lebensmittelgroßmärkte AG,Beverages,10,1996,62.0,77.5,0.0
+75,Rhönbräu Klosterbier,10326,Plutzer Lebensmittelgroßmärkte AG,Beverages,50,1996,310.0,387.5,0.0
+75,Rhönbräu Klosterbier,10347,Plutzer Lebensmittelgroßmärkte AG,Beverages,6,1996,37.2,46.5,0.15
+75,Rhönbräu Klosterbier,10363,Plutzer Lebensmittelgroßmärkte AG,Beverages,12,1996,74.4,93.0,0.0
+76,Lakkalikööri,10267,Karkki Oy,Beverages,15,1996,216.0,270.0,0.15
+76,Lakkalikööri,10273,Karkki Oy,Beverages,33,1996,475.2,594.0,0.05
+76,Lakkalikööri,10318,Karkki Oy,Beverages,6,1996,86.4,108.0,0.0
+76,Lakkalikööri,10319,Karkki Oy,Beverages,30,1996,432.0,540.0,0.0
+76,Lakkalikööri,10343,Karkki Oy,Beverages,15,1996,216.0,270.0,0.0
+76,Lakkalikööri,10363,Karkki Oy,Beverages,12,1996,172.8,216.0,0.0
+76,Lakkalikööri,10399,Karkki Oy,Beverages,35,1996,504.0,630.0,0.0
+77,Original Frankfurter grüne Soße,10256,Plutzer Lebensmittelgroßmärkte AG,Condiments,12,1996,124.8,156.0,0.0
+77,Original Frankfurter grüne Soße,10257,Plutzer Lebensmittelgroßmärkte AG,Condiments,15,1996,156.0,195.0,0.0
+77,Original Frankfurter grüne Soße,10290,Plutzer Lebensmittelgroßmärkte AG,Condiments,10,1996,104.0,130.0,0.0
+77,Original Frankfurter grüne Soße,10366,Plutzer Lebensmittelgroßmärkte AG,Condiments,5,1996,52.0,65.0,0.0
+77,Original Frankfurter grüne Soße,10367,Plutzer Lebensmittelgroßmärkte AG,Condiments,7,1996,72.8,91.0,0.0
+77,Original Frankfurter grüne Soße,10399,Plutzer Lebensmittelgroßmärkte AG,Condiments,14,1996,145.6,182.0,0.0
