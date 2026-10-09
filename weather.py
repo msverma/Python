@@ -24,7 +24,7 @@ if city:
         st.info(f"💧 Humidity: {humidity}%")
         st.write(f"☁️ Condition: {condition}")
         st.info(f"City: {city}")
-        st.info(f'Country: {country}')
+        st.metric(f'Country: {country}')
         st.info(f'Icon: {icon}')
     else:
         st.error("City not found or API error!")
